@@ -9,7 +9,7 @@
 int main(int argc, char *argv[])
 {
     LOG("111", "222", "nihao");
-
+    LOG("222", "222", "世界");
 
 	return 0;
 }

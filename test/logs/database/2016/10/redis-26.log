@@ -1,0 +1,8 @@
+===20161026-061803,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161026-061803,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161026-081036,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161026-081036,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
